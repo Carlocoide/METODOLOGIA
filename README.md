@@ -1,2 +1,4 @@
 # METODOLOGIA
-Hola mi Amor 
+
+> [!NOTE]
+> Hola, soy Carlos Gómez
